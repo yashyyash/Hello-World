@@ -1,7 +1,7 @@
-👋 Hi, I’m @yashyyash
+👋 Hello,World! I’m @yashyyash
 👀 I’m interested in computer engineering, product management, and innovative technology solutions.
 💞️ I’m looking to collaborate on projects related to product management, software development, and open-source contributions.
-📫 How to reach me: yashnil532@gmail.com
+📫 How to reach me: yashnil532@gmail.com or www.linkedin.com/in/yash-mutatkar
 😄 Pronouns: He/Him
 ⚡ Fun fact: I’m a fan of rap music and enjoy staying fit with regular workouts.
 <!---
